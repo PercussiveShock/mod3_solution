@@ -16,7 +16,8 @@ body {
 	width: 100%;
 	margin-bottom: 50px;
 	padding: 25px;
-	height: 70vw;
+	height: 1000px;
+	overflow: hidden;
 }
 
 #menu {
