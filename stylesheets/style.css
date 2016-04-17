@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-brand  {
+	text-align: left;
+}
+
+.menu-item {
+	color: black;
+	background-color: gray;
+	width: 100%;
+	margin-bottom: 50px;
+	padding: 25px;
+	height: 70vw;
+}
+
+#menu {
+	padding-bottom: 50px;
+	font-size: 3em;
+}
